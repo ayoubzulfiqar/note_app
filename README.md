@@ -46,10 +46,10 @@ All the screens in this project are fully responsive and interactive on all the 
 ![onBoarding](https://drive.google.com/uc?export=view&id=19c63WbTDnqSTUOF5xr6fXRKlkQyFUHoA)
 
 **Authentication**
-<img src="https://www.dropbox.com/s/0h7h7w98cpw4zac/ezgif.com-gif-maker%20%281%29.gif?dl=0">
+![authentication](https://drive.google.com/uc?export=view&id=1_XFUxbg1shm9WCBU0e9jRVFEwRp50fCS)
 
 **Main Screens**
-<img src="https://www.dropbox.com/s/a8pakpnmj7zsene/ezgif.com-gif-maker%20%282%29.gif?dl=0">
+![main](https://drive.google.com/uc?export=view&id=1RQU8S0hf9XUFK_ByZojFBJHnB6m_Ds3r)
 
 
 ## Learning Resources
