@@ -43,13 +43,14 @@ All the screens in this project are fully responsive and interactive on all the 
 ## Project Design
 
 **Onboarding Screens**
-![LogoScreen](https://www.dropbox.com/s/66k49k3jloaovgp/ezgif.com-gif-maker.gif?dl=1)
+<img src="https://www.dropbox.com/s/66k49k3jloaovgp/ezgif.com-gif-maker.gif?dl=1">
 
 **Authentication**
-![Authentication](https://www.dropbox.com/s/0h7h7w98cpw4zac/ezgif.com-gif-maker%20%281%29.gif?dl=1)
+<img src="https://www.dropbox.com/s/0h7h7w98cpw4zac/ezgif.com-gif-maker%20%281%29.gif?dl=1">
 
 **Main Screens**
-![Screens](https://www.dropbox.com/s/a8pakpnmj7zsene/ezgif.com-gif-maker%20%282%29.gif?dl=1)
+<img src="https://www.dropbox.com/s/a8pakpnmj7zsene/ezgif.com-gif-maker%20%282%29.gif?dl=1">
+
 
 ## Learning Resources
 
